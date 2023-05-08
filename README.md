@@ -1,1 +1,1 @@
-Javascript eventlerini ve ve metodlarını kullanarak yapılacaklar listesi. 
+JavaScript ile 'TO DO LİST' yapımı
